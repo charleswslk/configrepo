@@ -2,5 +2,5 @@ spring:
     datasource:
         driver-class-name: org.postgresql.Driver
         password: wiencz2110
-        url: jdbc:postgresql://localhost:5432/erpwebconfig
+        url: jdbc:postgresql://192.168.10.101:5432/erpwebconfig
         username: postgres
