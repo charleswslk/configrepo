@@ -1,6 +1,6 @@
 spring:
     datasource:
         driver-class-name: org.postgresql.Driver
-        password: wiencz2110
+        password: dell81639
         url: jdbc:postgresql://192.168.10.101:5432/erpwebconfig
         username: postgres
